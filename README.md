@@ -1,4 +1,4 @@
-# 👋🏻 I'm Farzam Ahmed
+# Hey 👋🏻 I'm Farzam Ahmed
 "I am a skilled **MERN Stack developer** with a strong foundation in building dynamic and scalable web applications. My expertise lies in creating seamless user experiences through **React**, managing robust backend logic with **Node.js and Express**, and efficiently handling databases with **MongoDB**. Driven by a passion for innovation and continuous learning, I consistently strive to deliver high-quality, fully integrated solutions that meet user needs and business goals."
 # 💫 About Me:
 I'm currently working on E-Invoicing Application<br>I'm Currently learning Fastify and PostgresSQL<br>Fun Fact : <br>        Code is my canvas, and every project is a masterpiece in the making. When I’m not building full-stack apps, you can find me experimenting with new tech just to see what’s possible—because for me, there’s no such thing as ‘too much to learn’!"
