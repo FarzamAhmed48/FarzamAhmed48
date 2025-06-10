@@ -47,9 +47,9 @@ Check out the repo: [socket.io-rabbitmq](https://github.com/your-username/socket
 
 Got an idea to level up your business with tech? Let’s chat!
 - 📫 **Email**: [farzamahmed48@gmail.com](mailto:your.email@example.com)
-- 🌐 **Portfolio**: [[your-portfolio-link.com](https://farzamahmed.netlify.app/)]tw
-- 🐦 **X**: [@yourXhandle](https://x.com/farzamahmed48)
-- 💼 **LinkedIn**: [your-linkedin-profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/farzam-ahmed-313611246/))
+- 🌐 **Portfolio**: [https://farzamahmed.netlify.app/](https://your-portfolio-link.com)
+- 🐦 **X**: [https://x.com/farzamahmed48](https://x.com/yourXhandle)
+- 💼 **LinkedIn**: [My Linkedin Profile](https://www.linkedin.com/in/farzam-ahmed-313611246/)
 
 ## 📜 Contributing
 
