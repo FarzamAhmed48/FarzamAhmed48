@@ -5,6 +5,7 @@ Helping businesses scale with **AI-powered solutions** and **full-stack web deve
 
 ## 🧠 About Me
 
+
 I’m all about creating tech that makes an impact. With a strong foundation in **Full-Stack Development (MERN)**, I’ve built and deployed web and mobile apps from scratch, focusing on seamless user experiences and business-driven outcomes. Now, I’m diving headfirst into **AI**, exploring how Large Language Models, automation tools, and AI integrations can transform workflows and scale businesses.
 
 Whether it’s crafting a responsive UI, optimizing a database, or building an AI-powered chatbot, I thrive on turning ideas into reality. Let’s build something that levels up your business!
